@@ -3,7 +3,7 @@ pymongo[srv]
 dnspython
 pandas
 numpy
-ensure
+ensure==1.0.2
 pytest
 
 -e .
